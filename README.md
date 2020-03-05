@@ -8,5 +8,5 @@
 
 
 ### 서버 배포 주소
-[Swagger UI API DOC](http://34.84.16.250:8000/api/doc)
-[API](http://34.84.16.250:8000/api/v1/)
+* [Swagger UI API DOC](http://34.84.16.250:8000/api/doc) : Swagger를 통해서 REST API를 확인 해볼 수 있는 링크입니다. 
+* [API](http://34.84.16.250:8000/api/v1/) : 실제 Django Rest Framework를 통해서 실행되는 API를 확인 할 수 있는 링크입니다.
